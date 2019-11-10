@@ -3,9 +3,9 @@
 
 ### To using this repository
 
- > Look and copy the file Controller.php
+ 1. Look and copy the file Controller.php
  
- > Defining the builder of your controller like
+ 2. Defining the builder of your controller like
 ```php
     public function __construct()
     {
