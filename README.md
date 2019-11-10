@@ -27,4 +27,7 @@
             'nome' => 'nome'
         );
     }
-    
+```
+
+3. Create your routes and views
+  
