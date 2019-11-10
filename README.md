@@ -1,7 +1,10 @@
 # Parameterizing CRUD methods for simple model's
 ## Parametrizando CRUD métodos para modelos simples
 
+### To using this repository
 
+ > Look and copy the file Controller.php
+ 
  > Defining the builder of your controller like
 ```php
     public function __construct()
@@ -24,3 +27,4 @@
             'nome' => 'nome'
         );
     }
+    
